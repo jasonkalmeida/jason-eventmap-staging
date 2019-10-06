@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jason-eventmap-staging/static/css/main.4e6f919a.chunk.css",
+    "main.js": "/jason-eventmap-staging/static/js/main.ab67d2f8.chunk.js",
+    "main.js.map": "/jason-eventmap-staging/static/js/main.ab67d2f8.chunk.js.map",
+    "runtime~main.js": "/jason-eventmap-staging/static/js/runtime~main.af87a4b3.js",
+    "runtime~main.js.map": "/jason-eventmap-staging/static/js/runtime~main.af87a4b3.js.map",
+    "static/js/2.1c7ce4fb.chunk.js": "/jason-eventmap-staging/static/js/2.1c7ce4fb.chunk.js",
+    "static/js/2.1c7ce4fb.chunk.js.map": "/jason-eventmap-staging/static/js/2.1c7ce4fb.chunk.js.map",
+    "index.html": "/jason-eventmap-staging/index.html",
+    "precache-manifest.b1ffd1446bfbb65948b74d8209e7a6d6.js": "/jason-eventmap-staging/precache-manifest.b1ffd1446bfbb65948b74d8209e7a6d6.js",
+    "service-worker.js": "/jason-eventmap-staging/service-worker.js",
+    "static/css/main.4e6f919a.chunk.css.map": "/jason-eventmap-staging/static/css/main.4e6f919a.chunk.css.map"
+  }
+}
